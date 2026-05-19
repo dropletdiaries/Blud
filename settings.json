@@ -45,8 +45,8 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 1
+      "radius": 0,
+      "speed": 0
     },
     "look-around": {
       "enabled": false,
